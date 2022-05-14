@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@types/node": "^17.0.33",
+    "colors": "^1.4.0",
+    "node": "^17.7.2",
+    "yargs": "^17.5.0"
+  },
+  "name": "03-bases-node",
+  "version": "0.0.2",
+  "description": "Es una simple tabla de multiplicar con archivos de texto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node app --base=3"
+  },
+  "author": "Miguel Jara",
+  "license": "MIT"
+}
